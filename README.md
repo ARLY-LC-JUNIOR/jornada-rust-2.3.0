@@ -14,4 +14,4 @@
 #
 - Querendo entrar nessa onda é só dropar inicialemte no Link útil abaixo. 
  - Uma linguagem que capacita todos a criar softwares confiáveis e eficiente.
- - Creditos equipe rust. *[Linguagem Rust](https:/https://www.rust-lang.org//)*
+ - Creditos equipe rust. [Linguagem Rust](https:/https://www.rust-lang.org//)
