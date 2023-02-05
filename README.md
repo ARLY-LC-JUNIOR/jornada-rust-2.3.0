@@ -9,7 +9,7 @@
 -  Desenvolvimento back-end
 -  Desafios 
 -  Games
--  Projetos
+-  Projetos: Novo Projeto ( 1 - Project Pendulum )
 -  Web
 #
 - Querendo entrar nessa onda é só dropar inicialemte no Link útil abaixo. 
