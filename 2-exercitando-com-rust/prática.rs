@@ -1,8 +1,8 @@
 fn main() {
-    let mut res = 42;
-    let option = Some(12);
+    let mut res = 30;
+    let option = Some(50);
     for x in option {
         res += x;
-    }
-    println!("{}", res);
+}
+println!("{}", res);
 }

@@ -4,3 +4,4 @@ fn main() {
     println!("Hello World, Olá mundo desvendando linguagem Rust com outra forma de println pula linha.");
     
 }
+
