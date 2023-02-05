@@ -114,12 +114,12 @@ impl Pendulum {
             (self.origin.x, self.origin.y),
             (self.position.x, self.position.y),
             3.0,
-            Color::GREEN,
+            Color::BLACK,
         );
 
         //We need to draw the ball of the pendulum.
         //It takes the position of the ball, the radius of the ball and the color.
-        graphics.draw_circle((self.position.x, self.position.y), 30.0, Color::BLACK);
+        graphics.draw_circle((self.position.x, self.position.y), 30.0, Color::BLUE);
     }
 }
 
