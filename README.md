@@ -9,9 +9,10 @@
 -  Desenvolvimento back-end
 -  Desafios 
 -  Games
--  Projetos: 
-05.02.23 > inserido > Novo Projeto ( 1 - Project Pendulum )
 -  Web
+-  Projetos: 
+- 05.02.23 > inserido > Novo Projeto ( 1 - Project Pendulum )
+
 #
 - Querendo entrar nessa onda é só dropar inicialemte no Link útil abaixo. 
  - Uma linguagem que capacita todos a criar softwares confiáveis e eficiente.
